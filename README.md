@@ -17,8 +17,8 @@ A MACHINE LEARNING ***Enthusiast*** 🌎.
 
 About Me!
 
-- 👨🏽‍💻 I’m currently a CSE Undergrad student at KL University
-- 🌱 I’m currently exploring Machine Learning and Web Development and how to integrate them. 
+- 👨🏽‍💻 I am currently a CSE Undergrad student at KL University
+- 🌱 I am currently exploring Machine Learning and Web Development and how to integrate them. 
 - 🤔 My interest lies in Web Development and Machine Learning.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [udbhav3101@gmail.com](mailto:udbhav3101@gmail.com).
