@@ -38,22 +38,21 @@
 ### Projects and Dev Stuffs:
 
 <details>	
-  <summary><b>⚡ Github Stats</b></summary>
+  <b>⚡ Github Stats</b>
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=udbhav3101&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udbhav3101&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <details>	
-  <summary><b>☄️ Github Streaks</b></summary>
-
+  <b>☄️ Github Streaks</b>
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=udbhav3101&hide_border=true" />
 </details>
 
 
-<br/>
+<br/><br/>
 
-**Credit: [udbhav3101](https://github.com/udbhav3101)
+Credit: [udbhav3101](https://github.com/udbhav3101)
 
-Last Edited on: 07-06-2022**
+Last Edited on: 07-06-2022
