@@ -5,22 +5,22 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Udbhav3101)
 
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=udbhav3101.udbhav3101&style=flat-square&color=0088cc)
+**Glad to see you here!**  &nbsp;![](https://visitor-badge.glitch.me/badge?page_id=udbhav3101.udbhav3101&style=flat-square&color=0088cc)
 
-### **About Me!**
+ **About Me!**
 
 - 👨🏽‍💻 I am currently a CSE Undergrad student at KL University
 - 🌱 I am currently exploring Machine Learning and Web Development and how to integrate them. 
 - 🤔 My interest lies in Web Development and Machine Learning.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [udbhav3101@gmail.com](mailto:udbhav3101@gmail.com).
-- 📝 &nbsp; Checkout my [Resume](https://github.com/udbhav3101/udbhav3101/blob/main/resume.pdf). 
+- 📝 Checkout my [Resume](https://github.com/udbhav3101/udbhav3101/blob/main/resume.pdf). 
 
 
+<img align="right" alt="GIF" width="300" height="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 
 ### Languages and Tools:
-
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -34,7 +34,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 
 ### Projects and Dev Stuffs:
