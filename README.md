@@ -17,11 +17,7 @@
 - 📝 &nbsp; Checkout my [Resume](https://github.com/udbhav3101/udbhav3101/blob/main/resume.pdf). 
 
 
-
-
-
-
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />>
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### Languages and Tools:
 
@@ -46,7 +42,6 @@
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
-
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=udbhav3101&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udbhav3101&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
@@ -58,7 +53,6 @@
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=udbhav3101&hide_border=true" />
 </details>
-
 
 #
 ----
