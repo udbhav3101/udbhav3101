@@ -12,7 +12,7 @@
 - 👨🏽‍💻 I am currently a CSE Undergrad student at KL University
 - 🌱 I am currently exploring Machine Learning and Web Development and how to integrate them. 
 - 🤔 My interest lies in Web Development and Machine Learning.
-- 💬 Ask me about anything, I love to answer!
+- 💬 Ask me about anything, I'd love to answer!
 - 📫 Email me at [udbhav3101@gmail.com](mailto:udbhav3101@gmail.com).
 - 📝 Checkout my [Resume](https://github.com/udbhav3101/udbhav3101/blob/main/resume.pdf). 
 
