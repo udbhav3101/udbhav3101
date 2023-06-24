@@ -17,7 +17,7 @@
 - 📝 Checkout my [Resume](https://github.com/udbhav3101/udbhav3101/blob/main/resume.pdf).
 - 💻 Checkout my [Portfolio](https://udbhav-portfolio.vercel.app/).
 
-<img src="https://github.com/udbhav3101/udbhav3101/assets/56537586/9d55737d-7307-42e9-9776-8e8321bd2146" align="right" width="400" height="400"/>
+<img src="https://github.com/udbhav3101/udbhav3101/assets/56537586/9d55737d-7307-42e9-9776-8e8321bd2146" align="right" width="300" height="300"/>
 
 
 <br/>
