@@ -2,42 +2,45 @@
 ## Hey 👋, I'm [Udbhav Govindu!](https://github.com/udbhav3101/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/udbhav-govindu/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Udbhav3101)
+[![Personal Badge](https://img.shields.io/badge/Portfolio-blue)](https://udbhav-portfolio.vercel.app/)
 
 
-**Glad to see you here!**  &nbsp;![](https://visitor-badge.glitch.me/badge?page_id=udbhav3101.udbhav3101&style=flat-square&color=0088cc)
+**Glad to see you here!**
 
  **About Me!**
 
-- 👨🏽‍💻 I am currently a CSE Undergrad student at KL University
-- 🌱 I am currently exploring Machine Learning and Web Development and how to integrate them. 
-- 🤔 My interest lies in Web Development and Machine Learning.
+- 👨🏽‍💻 Currently working as a Junior Frontend Engineer at Forteil GmbH (Bonify)
+- 🌱 I am currently exploring Machine Learning, Web Development and Mobile App Development. 
+- 🤔 My interest lies in Web Development, Mobile App Development and Machine Learning.
 - 💬 Ask me about anything, I'd love to answer!
 - 📫 Email me at [udbhav3101@gmail.com](mailto:udbhav3101@gmail.com).
-- 📝 Checkout my [Resume](https://github.com/udbhav3101/udbhav3101/blob/main/resume.pdf). 
+- 📝 Checkout my [Resume](https://github.com/udbhav3101/udbhav3101/blob/main/resume.pdf).
+- 💻 Checkout my [Portfolio](https://udbhav-portfolio.vercel.app/).
 
-
-<img align="right" alt="GIF" width="320" height="320" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-<br/>
-
-**Languages and Tools:**
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<img src="https://github.com/udbhav3101/udbhav3101/assets/56537586/65cb9ce9-5ed3-4de8-912a-2dc9758632d7" align="right" height="500" width="500"/>
 
 
 <br/>
 
-**Projects and Dev Stuffs:**
+**<ins>Languages:</ins>**
+
+<img height="20" src="https://github.com/udbhav3101/udbhav3101/assets/56537586/b0310b8c-e47a-4a86-bf57-cb3ea853a748">
+<img height="20" src="https://github.com/udbhav3101/udbhav3101/assets/56537586/96a6e817-4617-4129-aaab-2bfb6ed9f7de">
+<img height="20" src="https://github.com/udbhav3101/udbhav3101/assets/56537586/331b401f-2fe4-4406-bc73-3c2d8768c9fe">
+<img height="20" src="https://github.com/udbhav3101/udbhav3101/assets/56537586/7cad416c-7623-4162-9a83-939474b82595">
+
+<br/>
+<br/>
+
+**<ins>Frameworks and Tools:</ins>**
+
+<img height="20" src="https://github.com/udbhav3101/udbhav3101/assets/56537586/13552cc2-0072-451d-95ed-7c1124d07884">
+<img height="20" src="https://github.com/udbhav3101/udbhav3101/assets/56537586/b3448b97-f377-4596-838e-7eceb030b2a5">
+
+<br/>
+<br/>
+
+**<ins>Projects and Dev Stuffs:</ins>**
 
 
   <summary><b>⚡ Github Stats</b></summary>
@@ -53,4 +56,4 @@
 ---
 Credit: [udbhav3101](https://github.com/udbhav3101)
 
-Last Edited on: 07-06-2022
+Last Edited on: 24-06-2023
