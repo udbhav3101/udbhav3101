@@ -47,6 +47,4 @@
 
 
 ---
-Credit: [udbhav3101](https://github.com/udbhav3101)
-
 Last Edited on: 24-07-2024
