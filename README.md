@@ -10,10 +10,8 @@
  **About Me!**
 
 - 👨🏽‍💻 Currently working as a Junior Frontend Engineer at Forteil GmbH (Bonify)
-- 🌱 I am currently exploring Machine Learning, Web Development and Mobile App Development. 
-- 🤔 My interest lies in Web Development, Mobile App Development and Machine Learning.
-- 💬 Ask me about anything, I'd love to answer!
-- 📫 Email me at [udbhav3101@gmail.com](mailto:udbhav3101@gmail.com).
+- 🤔 My interest lies in Web Development, Mobile App Development.
+- 📫 Reach me out at [udbhav3101@gmail.com](mailto:udbhav3101@gmail.com).
 - 📝 Checkout my [Resume](https://github.com/udbhav3101/udbhav3101/blob/main/resume.pdf).
 - 💻 Checkout my [Portfolio](https://udbhav-portfolio.vercel.app/).
 
