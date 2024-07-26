@@ -22,18 +22,13 @@
 
 **<ins>Languages:</ins>**
 
-<img height="20" src="https://github.com/udbhav3101/udbhav3101/assets/56537586/b0310b8c-e47a-4a86-bf57-cb3ea853a748">
-<img height="20" src="https://github.com/udbhav3101/udbhav3101/assets/56537586/96a6e817-4617-4129-aaab-2bfb6ed9f7de">
-<img height="20" src="https://github.com/udbhav3101/udbhav3101/assets/56537586/331b401f-2fe4-4406-bc73-3c2d8768c9fe">
-<img height="20" src="https://github.com/udbhav3101/udbhav3101/assets/56537586/7cad416c-7623-4162-9a83-939474b82595">
+<img height="40" src="https://github.com/udbhav3101/udbhav3101/assets/56537586/b0310b8c-e47a-4a86-bf57-cb3ea853a748">
+<img height="40" src="https://github.com/udbhav3101/udbhav3101/assets/56537586/96a6e817-4617-4129-aaab-2bfb6ed9f7de">
+<img height="40" src="https://github.com/udbhav3101/udbhav3101/assets/56537586/331b401f-2fe4-4406-bc73-3c2d8768c9fe">
+<img height="40" src="https://github.com/udbhav3101/udbhav3101/assets/56537586/7cad416c-7623-4162-9a83-939474b82595">
 
 <br/>
 <br/>
-
-**<ins>Frameworks and Tools:</ins>**
-
-<img height="20" src="https://github.com/udbhav3101/udbhav3101/assets/56537586/13552cc2-0072-451d-95ed-7c1124d07884">
-<img height="20" src="https://github.com/udbhav3101/udbhav3101/assets/56537586/b3448b97-f377-4596-838e-7eceb030b2a5">
 
 <br/>
 <br/>
