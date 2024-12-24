@@ -1,5 +1,5 @@
 
-## Hey 👋, I'm [Udbhav Govindu!](https://github.com/udbhav3101/)
+## Hey 👋, I'm Udbhav Govindu!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/udbhav-govindu/)
 [![Personal Badge](https://img.shields.io/badge/Portfolio-blue)](https://udbhav-portfolio.vercel.app/)
