@@ -13,7 +13,6 @@
 - 🚀 Web Development, Mobile Development.
 - 📫 Reach me out at [udbhav3101@gmail.com](mailto:udbhav3101@gmail.com).
 - 📝 Checkout my [Resume](https://github.com/udbhav3101/udbhav3101/blob/main/resume.pdf).
-- 💻 Checkout my [Portfolio](https://udbhav-portfolio.vercel.app/).
 
 <img src="https://github.com/udbhav3101/udbhav3101/assets/56537586/67c4d896-c84f-4dcc-819a-8937f739e680" width="350" height="350" align="right"/>
 
