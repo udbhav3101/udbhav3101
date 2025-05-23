@@ -1,9 +1,8 @@
 
-## Hey 👋, I'm Udbhav Govindu!
+## Hey 👋, I'm Udbhav Govindu
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/udbhav-govindu/)
 [![Personal Badge](https://img.shields.io/badge/Portfolio-blue)](https://udbhav-portfolio.vercel.app/)
-
 
 **Glad to see you here!**
 
@@ -12,10 +11,8 @@
 - 👨🏽‍💻 Currently working as a Frontend Engineer at Forteil GmbH (bonify)
 - 🚀 Web Development, Mobile Development.
 - 📫 Reach me out at [udbhav3101@gmail.com](mailto:udbhav3101@gmail.com).
-- 📝 Checkout my [Resume](https://github.com/udbhav3101/udbhav3101/blob/main/resume.pdf).
 
 <img src="https://github.com/udbhav3101/udbhav3101/assets/56537586/67c4d896-c84f-4dcc-819a-8937f739e680" width="350" height="350" align="right"/>
-
 
 <br/>
 
@@ -31,7 +28,6 @@
 
 **<ins>Projects and Dev Stuffs:</ins>**
 
-
   <summary><b>⚡ Github Stats</b></summary>
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=udbhav3101&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
@@ -40,4 +36,3 @@
   <summary><b>☄️ Github Streaks</b></summary>
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=udbhav3101&theme=dark" />
-
